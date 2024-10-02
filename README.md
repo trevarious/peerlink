@@ -1,66 +1,12 @@
-## Foundry
+## Peerlink
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+**Peerlink is decentralized social graph created for seamless payments and messaging with built in incentives and unique social status. Each user is represented by a ERC721 or what is commonly referred to as an NFT. Users name, bio, friends count, and reputation are stored as metadata**
 
-Foundry consists of:
+Peerlink objectives:
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+-   **Connect**: Connect users from across the globe for seamless communication and crypto payments.
+-   **Grow**: As your circle grows, so too does your Metadata
+-   **Reputation**: Reuptation can be earned by burning your Cred. Cred is an erc20 token earned through participation in peerlink. Unlock rewards and status as your reputation grows
+-   **Message**: You can send string messages along with POL, and any compatible ERC20 token.
 
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+Start growing your circle and join Peerlink today!
